@@ -27,7 +27,7 @@ colortheme: "owl"
 sansfont: IBM Plex Sans
 monofont: IBM Plex Mono
 mainfont: IBM Plex Sans
-fontsize: 8pt
+fontsize: 10pt
 highlight: tango
 
 logo: ./template/logo.png
